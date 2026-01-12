@@ -76,5 +76,4 @@
 
 ---
 
-> Backend is not about looking smart.  
-> It's about building systems that **survive change**.
+
