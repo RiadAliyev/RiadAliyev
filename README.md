@@ -60,34 +60,17 @@
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RiadAliyev&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RiadAliyev&show_icons=true&theme=tokyonight&hide_border=true" width="55%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiadAliyev&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RiadAliyev&theme=tokyonight&hide_border=true" width="80%"/>
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/RiadAliyev/RiadAliyev/output/developer-snake.svg" width="100%"/>
-
----
 
 ### 🔗 Links
+
 
 <p align="center">
   <a href="https://github.com/RiadAliyev">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/riad-aliyev-0926762b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
